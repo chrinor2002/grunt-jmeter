@@ -1,0 +1,2 @@
+#!/bin/bash
+node_modules/grunt-jmeter/jmeter/apache-jmeter-2.12/bin/jmeter "$@"
