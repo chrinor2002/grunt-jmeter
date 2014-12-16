@@ -35,8 +35,7 @@
     "gruntplugin"
   ],
   "bin": {
-    "jmeter-manager": "bin/jmeter-manager",
-    "jmeter": "bin/jmeter"
+    "jmeter-manager": "bin/jmeter-manager"
   },
   "files": [
     "bin",
