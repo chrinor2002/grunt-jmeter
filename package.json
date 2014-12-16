@@ -1,7 +1,7 @@
 {
   "name": "grunt-jmeter",
   "description": "Run jmeter tests with grunt.",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "homepage": "https://github.com/pcw216/grunt-jmeter",
   "author": {
     "name": "Patrick Winters",
@@ -45,6 +45,6 @@
     "LICENSE"
   ],
   "jmeterVersions": {
-    "jmeter": "2.11"
+    "jmeter": "2.12"
   }
 }
