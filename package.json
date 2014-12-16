@@ -45,5 +45,25 @@
   ],
   "jmeterVersions": {
     "jmeter": "2.12"
-  }
+  },
+  "_id": "grunt-jmeter@0.0.2",
+  "dist": {
+    "shasum": "329cbf25d4235afaeb2fed80c4b3067f26aa78c2",
+    "tarball": "http://registry.npmjs.org/grunt-jmeter/-/grunt-jmeter-0.0.2.tgz"
+  },
+  "_from": "grunt-jmeter@",
+  "_npmVersion": "1.4.3",
+  "_npmUser": {
+    "name": "pwinters",
+    "email": "pwinters@rallydev.com"
+  },
+  "maintainers": [
+    {
+      "name": "pwinters",
+      "email": "pwinters@rallydev.com"
+    }
+  ],
+  "directories": {},
+  "_shasum": "329cbf25d4235afaeb2fed80c4b3067f26aa78c2",
+  "_resolved": "https://registry.npmjs.org/grunt-jmeter/-/grunt-jmeter-0.0.2.tgz"
 }
