@@ -29,4 +29,15 @@ switch (argv._[0]) {
 			}
 		});
 		break;
+	case 'plugin':
+		manager.downloadPlugin('extraslibs', function(err, filePath){
+			if(err){
+				console.log('\nFailed plugin:',err)
+				process.exit(1)
+			} else {
+				console.log('\nDone plugin ',filePath)
+				process.exit(0)
+			}
+		});
+		break;
 }
