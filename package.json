@@ -25,6 +25,7 @@
     "node": ">= 0.10.11"
   },
   "dependencies": {
+    "adm-zip": "^0.4.4",
     "fstream": "^1.0.3",
     "optimist": "~0.6.1",
     "tarball-extract": "0.0.3",
