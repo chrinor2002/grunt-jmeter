@@ -48,7 +48,8 @@
     "LICENSE"
   ],
   "jmeterVersions": {
-    "jmeter": "2.13"
+    "jmeter": "2.13",
+    "extraslibs": "1.3.1"
   },
   "maintainers": [
     {
